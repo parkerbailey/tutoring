@@ -28,7 +28,7 @@ url: "https://parkerbailey.github.io/tutoring.github.io/" # the base hostname & 
 github_username: parkerbailey
 
 # Build settings
-theme: slate
+theme: minimal
 plugins:
   - jekyll-feed
 

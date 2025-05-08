@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+# Welcome
+
+I offer personalized math tutoring from the middle school to college level. Book a session, ask a question, or learn more below. 
